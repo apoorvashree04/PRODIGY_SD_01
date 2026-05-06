@@ -78,4 +78,4 @@ def toggle_theme():
 toggle_btn = ctk.CTkButton(frame, text="🌙 Toggle Theme", command=toggle_theme)
 toggle_btn.pack(pady=15)
 
-app.mainloop()
+app.mainloop() 
